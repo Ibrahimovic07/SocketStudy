@@ -1,7 +1,9 @@
 # Ex.No:1a  			Study of Socket Programming
 
-# NAME  MOHAMMED IBRAHIM MN
-# REG NO 212223100034
+## NAME : MOHAMMED IBRAHIM MN
+## REG NO : 212223100034
+## Date : 12/8/2024
+
 
 
 ## Aim: 
